@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# MacOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Data files (optional, if files are large or private)
+*.csv
+
+# Logs
+*.log
+
+# Python egg metadata
+*.egg-info/
+
+# Streamlit cache (if using Streamlit)
+.streamlit/
+
+# Pipenv
+Pipfile.lock
+
+# Compiled files
+*.so
